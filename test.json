@@ -1,0 +1,287 @@
+{
+    "GroupDefinitions": [
+      {
+        "Type": "DIMENSION",
+        "Key": "RESOURCE_ID"
+      }
+    ],
+    "ResultsByTime": [
+      {
+        "TimePeriod": {
+          "Start": "2022-08-31T00:00:00Z",
+          "End": "2022-09-01T00:00:00Z"
+        },
+        "Total": {},
+        "Groups": [
+          {
+            "Keys": [
+              "arn:aws:ec2:ap-southeast-1:390468416359:natgateway/nat-02df1eb2e53313a87"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "arn:aws:ec2:ap-southeast-1:390468416359:natgateway/nat-049c200702c266d11"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "arn:aws:ec2:ap-southeast-1:390468416359:natgateway/nat-09a4399736f205f2f"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "arn:aws:ec2:ap-southeast-1:390468416359:natgateway/nat-0bbd455f28ff817b8"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "arn:aws:ec2:ap-southeast-2:390468416359:natgateway/nat-0fb76912c29cfbc5d"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "arn:aws:ec2:us-east-1:390468416359:natgateway/nat-0a8ff0bc6c0ea5d7b"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "arn:aws:ec2:us-east-1:390468416359:natgateway/nat-0ad34ea35ad0304f5"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "arn:aws:ec2:us-east-2:390468416359:natgateway/nat-0ef7ab2af199f2e18"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "arn:aws:ec2:us-west-2:390468416359:natgateway/nat-0da4c9966d86c8a90"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "i-015744c67407ae029"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0.3491002608",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "i-015da8b78654660d9"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0.4992",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "i-039e216f8d3778f84"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0.4992",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "i-0475a7a035c713777"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0.3491002608",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "i-04e7ecc976cfe82d5"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0.2784",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "i-05221513bd7541ba7"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "2.4",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "i-089e43ac79065eab7"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "i-08dd16b4816a209da"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0.3024",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "i-09f3d36e89bef1096"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0.2784",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "i-0ae154fc25faa1111"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "2.5344",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "i-0af5f8b884e98bd8e"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0.3024",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "i-0b9f082e3ae7a7b4a"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0.3491002608",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "i-0c2c950be7561cf42"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0.4992",
+                "Unit": "USD"
+              }
+            }
+          },
+          {
+            "Keys": [
+              "i-0dab55df8de49c1bc"
+            ],
+            "Metrics": {
+              "BlendedCost": {
+                "Amount": "0.3168",
+                "Unit": "USD"
+              }
+            }
+          }
+        ],
+        "Estimated": true
+      }
+    ],
+    "DimensionValueAttributes": [],
+    "ResponseMetadata": {
+      "RequestId": "e2342894-a4d1-4995-b3f5-ee8f1f47bbfb",
+      "HTTPStatusCode": 200,
+      "HTTPHeaders": {
+        "date": "Fri, 02 Sep 2022 08:43:34 GMT",
+        "content-type": "application/x-amz-json-1.1",
+        "content-length": "2765",
+        "connection": "keep-alive",
+        "x-amzn-requestid": "e2342894-a4d1-4995-b3f5-ee8f1f47bbfb",
+        "cache-control": "no-cache"
+      },
+      "RetryAttempts": 0
+    }
+  }
