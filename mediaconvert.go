@@ -32,7 +32,7 @@ func main() {
 	mediaConvertClient := mediaconvert.NewFromConfig(cfg)
 
 	//需要转换的在S3中的视频文档
-	inputFileInS3 := "s3://media.cuteworld.top/sample/210329_06B_Bali_1080p_013.mp4"
+	inputFileInS3 := "s3://media.cuteworld.top/sample/210329_06B_Bali_1080p_013-r.mp4"
 
 	fmt.Println("---- " + inputFileInS3)
 
