@@ -38,7 +38,7 @@ func main() {
 
 	//最富在的部分， 创建转换任务
 	job := mediaconvert.CreateJobInput{
-		Role:  aws.String("arn:aws:iam::390468416359:role/service-role/MediaConvert_Default_Role"),
+		Role:  aws.String("arn:aws:iam::xxxxxxxxxxx:role/service-role/MediaConvert_Default_Role"),
 		Queue: aws.String("fordjs"),
 		Settings: &types.JobSettings{
 			TimecodeConfig: &types.TimecodeConfig{
